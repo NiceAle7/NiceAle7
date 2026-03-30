@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**NiceAle7/NiceAle7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UC Irvine  
+💻 Aspiring Software Engineer | Interested in Product Management  
+📍 California  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently building full-stack projects using React, Node.js, and MongoDB  
+- Interested in creating products that solve real-world problems  
+- Working on improving my data structures & algorithms skills  
+- Exploring opportunities for Software Engineering internships  
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Java, Python, C++  
+**Web:** React, Node.js, Express  
+**Tools:** Git, GitHub, MongoDB  
+
+---
+
+## 📌 Projects
+- 🔹 **Full-Stack Login System** – Built with React, Node.js, and MongoDB  
+- 🔹 **(Add your other project)** – short 1-line description  
+- 🔹 **(Add your other project)** – short 1-line description  
+
+---
+
+## 📈 Currently Working On
+- Improving backend development skills  
+- Building more real-world, resume-ready projects  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/alejandro-olivares-lopez/
+- Email: aleja.oliva7@gmail.com
