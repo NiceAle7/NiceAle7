@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Alejandro 👋
+# I'm Alejandro!
 
 **Computer Science Student @ UC Irvine**  
 **Aspiring Software Engineer & Product Builder**
